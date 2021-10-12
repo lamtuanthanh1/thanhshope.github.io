@@ -694,6 +694,7 @@
     font-weight: 300;
     color: #aaa4a4;
     margin: 0 12px;
+    text-align: left;
 }
 
 .header__cart-item-remove {
