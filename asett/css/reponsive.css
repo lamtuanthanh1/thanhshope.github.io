@@ -194,11 +194,14 @@
     
     .footer__heading {
         text-align: center;
+        font-size: 1.5rem;
     }
 
     .footer__download,
     .footer-item__link {
         justify-content: center;
+        font-size: 1.4rem;
+        padding: 5px;
     }
 
     .footer__download-app-link {
